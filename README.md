@@ -80,3 +80,5 @@ The main objectives of this project are to:
 4. Visualize important insights using Excel dashboards.
 5. Demonstrate practical Excel data analysis and visualization skills.
 
+##  Dashboard Preview
+![Global Data Breach Tracker](global_data_breach_screenshot.png)
